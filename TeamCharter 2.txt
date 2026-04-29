@@ -1,0 +1,60 @@
+??? Engineering Team Charter
+
+1. Team Name
+Mighty Mouses (Group 28)
+SS5250, AW2761, MA3403, ECNT20, TM2367  and AMAF24
+2. Mission Statement
+Our mission is to collaboratively design, build, and optimise a reliable, fast, and wellcontrolled autonomous mouse capable of completing the 20m 20kHzguided track in the shortest consistent time.
+3. Goals & Objectives
+* Complete a functional sensing and filtering system capable of detecting the 20kHz signal by Wednesday.
+* Implement and test the full control loop by Thursday afternoon.
+* Test on small and midsize tracks, then complete at least one full maintrack lap during race trials.
+* Maintain daily progress tracking and resolve blockers within one work session.
+* Produce full documentation and code by Friday.
+
+4. Team Members & Roles
+   Name                                              Role                                                               ResponsibilitiesSamTeam LeadCoordinates team TheadoreControl & Arduino EngineerImplements control law and PWM output.AlexSensing & Filtering EngineerDesigns pickup coil system and noise filtering.MervynMotor Driver EngineerDesigns motor amplifier circuits.AbbasPower & Wiring EngineerManages batteries, wiring and power stability.EthanTesting & Documentation LeadRuns testing and maintains documentation.
+
+5. Resources & Constraints
+Resources
+* Laboratory Equipment: Oscilloscopes, lab power supplies, signal generators, 20?kHz test track modules, midsize tracks, and the main track used for qualification and race testing.
+* Hardware & Components: Arduino ESP32, DC motors, provided chassis, 220?µH pickup coils, prototyping stripboard, resistors, bread boards, capacitors, transistors, diodes, op-amps, switches, wiring, and batteries. 
+* Technical Support: Access to demonstrators and academic staff during scheduled store and Q&A times for troubleshooting, advice, and hardware checks. 
+* Shared Tools & Workspaces: Soldering stations, hand tools, testing tables, and collaborative workspace throughout the week.
+Constraints
+* Track Access: Midsize and main tracks require qualification, and availability is limited due to high team demand.
+* Time Limitations: Project must be completed within a strict 5day schedule, including design, build, test, and iteration cycles. 
+* Component Restrictions: Shared hardware means some parts cannot be replaced immediately or are unavailable; chassis must not be drilled or permanently altered. 
+* Technical Limitations: Noise, sensor imbalance, battery charge, and motor efficiency introduce realworld constraints requiring careful design
+
+6. Operating Norms
+* Daily Standup: 9:15 each morning to assign tasks, identify blockers, and plan lab activities. 
+* Communication: WhatsApp for rapid updates; Microsoft Teams for sharing code, diagrams, documentation, images, and logs. 
+* Documentation: All test logs, wiring diagrams, and notes stored in a shared Teams folder. 
+* Meeting Etiquette: Stay focused, respect speaking order, and keep discussions technical. 
+* Work Coordination: Subsystem tasks completed independently, then integrated during joint testing sessions, use GANTT chart for efficient time control.
+
+
+
+
+
+
+7. Decision-Making Process
+* Technical Decisions: Majority vote after group discussions; Team Lead resolves ties. 
+* Subsystem Decisions: The engineer responsible for the subsystem makes recommendations; team validates before integration. 
+* Urgent Testing Decisions: Testing Lead + subsystem engineer make onthespot adjustments to avoid wasting time. 
+* Final Signoff: Team Lead and Testing Lead approve fullsystem readiness before qualification or race trials.
+8. Conflict Resolution
+* begin with a private, calm discussion between team members to clarify viewpoints. 
+* If unresolved, escalate to Team Lead mediation, applying the “pause, restate, respond” approach to slow down heated exchanges. 
+* If issues persist, adjust workload or rotate tasks to reduce friction. 
+* The team follows a culture of constructive criticism and togetherness, where ideas are critiqued, not people, and ideas are built upon.
+9. Team Values & Culture
+* Respectful Debate: All viewpoints are heard; disagreements stay technical.
+* Accountability: Each member owns their subsystem and communicates progress clearly.
+* Inclusivity: Everyone contributes to design, testing, and decisions.
+* Iterative Engineering: Rapid prototyping and testing are prioritised over perfection.
+* Controversy with Civility: Difficult discussions follow structure and logic to resolve scenario.
+
+10. Sign-Off & Commitment
+Name                                                                                  Signature                               Date Sam                                                                                                                                       10/04/26Alex                                                                                                                                        11/04/26Ethan                                                                                                                                     11/04/26Mervyn                                                                                                                                  11/04/26Abbas                                                                                                                                    11/04/26Theodore                                                                                                                              11/04/26
