@@ -12,6 +12,10 @@ Update (v1.1):
 - Added version history section
 - Updated version number from 1.0 to 1.1
 
+Update (v1.2):
+- Added Change Log section
+- Change was made on a separate branch named: update-document-v1.2
+- Branch will be merged back into main after quick assessment 
 
 
 
