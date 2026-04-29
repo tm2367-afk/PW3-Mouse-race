@@ -1,4 +1,19 @@
-??? Engineering Team Charter
+
+
+Title: Engineering Team Charter Version Control
+
+Version: 1.1
+Author: Theodore McKenzie
+Date: 29/04/2026
+
+Content: Team Charter is now being tracked using GitHub version control
+
+Update (v1.1):
+- Added version history section
+- Updated version number from 1.0 to 1.1
+
+
+
 
 1. Team Name
 Mighty Mouses (Group 28)
@@ -13,12 +28,34 @@ Our mission is to collaboratively design, build, and optimise a reliable, fast, 
 * Produce full documentation and code by Friday.
 
 4. Team Members & Roles
-   Name                                              Role                                                               ResponsibilitiesSamTeam LeadCoordinates team TheadoreControl & Arduino EngineerImplements control law and PWM output.AlexSensing & Filtering EngineerDesigns pickup coil system and noise filtering.MervynMotor Driver EngineerDesigns motor amplifier circuits.AbbasPower & Wiring EngineerManages batteries, wiring and power stability.EthanTesting & Documentation LeadRuns testing and maintains documentation.
+   Name                                              Role                                                               Responsibilities
+Sam
+Team Lead
+Coordinates team 
+Theadore
+Control & Arduino Engineer
+Implements control law and PWM output.
+Alex
+Sensing & Filtering Engineer
+Designs pickup coil system and noise filtering.
+Mervyn
+Motor Driver Engineer
+Designs motor amplifier circuits.
+Abbas
+Power & Wiring Engineer
+Manages batteries, wiring and power stability.
+Ethan
+Testing & Documentation Lead
+Runs testing and maintains documentation.
+
+
+
+
 
 5. Resources & Constraints
 Resources
 * Laboratory Equipment: Oscilloscopes, lab power supplies, signal generators, 20?kHz test track modules, midsize tracks, and the main track used for qualification and race testing.
-* Hardware & Components: Arduino ESP32, DC motors, provided chassis, 220?µH pickup coils, prototyping stripboard, resistors, bread boards, capacitors, transistors, diodes, op-amps, switches, wiring, and batteries. 
+* Hardware & Components: Arduino ESP32, DC motors, provided chassis, 220?¬µH pickup coils, prototyping stripboard, resistors, bread boards, capacitors, transistors, diodes, op-amps, switches, wiring, and batteries. 
 * Technical Support: Access to demonstrators and academic staff during scheduled store and Q&A times for troubleshooting, advice, and hardware checks. 
 * Shared Tools & Workspaces: Soldering stations, hand tools, testing tables, and collaborative workspace throughout the week.
 Constraints
@@ -46,7 +83,7 @@ Constraints
 * Final Signoff: Team Lead and Testing Lead approve fullsystem readiness before qualification or race trials.
 8. Conflict Resolution
 * begin with a private, calm discussion between team members to clarify viewpoints. 
-* If unresolved, escalate to Team Lead mediation, applying the ìpause, restate, respondî approach to slow down heated exchanges. 
+* If unresolved, escalate to Team Lead mediation, applying the ‚Äúpause, restate, respond‚Äù approach to slow down heated exchanges. 
 * If issues persist, adjust workload or rotate tasks to reduce friction. 
 * The team follows a culture of constructive criticism and togetherness, where ideas are critiqued, not people, and ideas are built upon.
 9. Team Values & Culture
@@ -57,4 +94,17 @@ Constraints
 * Controversy with Civility: Difficult discussions follow structure and logic to resolve scenario.
 
 10. Sign-Off & Commitment
-Name                                                                                  Signature                               Date Sam                                                                                                                                       10/04/26Alex                                                                                                                                        11/04/26Ethan                                                                                                                                     11/04/26Mervyn                                                                                                                                  11/04/26Abbas                                                                                                                                    11/04/26Theodore                                                                                                                              11/04/26
+Name                                                                                  Signature                               Date 
+Sam                                                                                                                                       10/04/26
+Alex                                                                                                                                        11/04/26
+Ethan                                                                                                                                     11/04/26
+Mervyn                                                                                                                                  11/04/26
+Abbas                                                                                                                                    11/04/26
+Theodore                                                                                                                              11/04/26
+
+
+
+
+
+
+
