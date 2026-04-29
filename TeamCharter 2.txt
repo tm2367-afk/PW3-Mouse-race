@@ -1,6 +1,6 @@
 
 
-Title: Engineering Team Charter Version Control
+Title: Team Charter Version Control
 
 Version: 1.1
 Author: Theodore McKenzie
